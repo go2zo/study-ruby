@@ -1,0 +1,2 @@
+NAME = "KIM"
+$name = "jiho"
